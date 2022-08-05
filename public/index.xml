@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alyssa Lopez</title>
+    <link>https://github.com/lopezaly/lopezaly.github.io/</link>
+    <description>Recent content on Alyssa Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 13:00:25 +0530</lastBuildDate><atom:link href="https://github.com/lopezaly/lopezaly.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Development &amp; Management</title>
+      <link>https://github.com/lopezaly/lopezaly.github.io/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://github.com/lopezaly/lopezaly.github.io/portfolio/work2/</guid>
+      <description>&lt;p&gt;New product development for a nail industry leader including market analyses, concept generation and testing, and product implementation planning&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
